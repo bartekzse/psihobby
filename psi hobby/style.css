@@ -93,7 +93,7 @@ h3{
   margin-left: 49%;
   height: 70%;
   position: absolute;
-  border-left: 6px solid#D9D3C7;
+  border-left: 6px solid #D9D3C7;
   width: 3px;
 }
 .carti2{
@@ -160,51 +160,3 @@ a:hover {
   z-index: 10;
   transform: scale(1.1) rotate(0.001deg);
 }
-
-/*kontakt*/
-.contact{
-  margin-top: 15%;
-  margin-left: 25%;
-  max-width: 50%;
-}
-.feedback-input {
-  color:white;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight:500;
-  font-size: 18px;
-  border-radius: 5px;
-  line-height: 22px;
-  background-color: transparent;
-  border:2px solid #C7A57B;
-  transition: all 0.3s;
-  padding: 13px;
-  margin-bottom: 15px;
-  width:100%;
-  box-sizing: border-box;
-  outline:0;
-}
-
-.feedback-input:focus { border:2px solid #C7A57B; }
-
-textarea {
-  height: 150px;
-  line-height: 150%;
-  resize:vertical;
-}
-
-[type="submit"] {
-  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  width: 100%;
-  background:#C7A57B;
-  border-radius:5px;
-  border:0;
-  cursor:pointer;
-  color:white;
-  font-size:24px;
-  padding-top:10px;
-  padding-bottom:10px;
-  transition: all 0.3s;
-  margin-top:-4px;
-  font-weight:700;
-}
-[type="submit"]:hover { background:#b59670; }
